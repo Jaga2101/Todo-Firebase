@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:todo/alert.dart';
-import 'package:todo/color.dart';
+import 'package:todo/home%20Page/alert.dart';
+import 'package:todo/home%20Page/color.dart';
 
 class ForgetPas extends StatefulWidget {
   const ForgetPas({super.key});

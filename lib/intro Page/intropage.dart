@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:introduction_screen/introduction_screen.dart';
 // import 'package:todo/color.dart';
-import 'package:todo/loginscreen.dart';
-import 'package:todo/regscreen.dart';
+import 'package:todo/auth%20Page/loginscreen.dart';
+import 'package:todo/auth%20Page/regscreen.dart';
 
 class IntroPage extends StatelessWidget {
   Future<bool> checkInternetConnection() async {

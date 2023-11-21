@@ -4,9 +4,9 @@ import 'dart:async';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:todo/intropage.dart';
+import 'package:todo/intro%20Page/intropage.dart';
 // import 'package:todo/loginscreen.dart';
-import 'package:todo/taskpage.dart';
+import 'package:todo/home%20Page/taskpage.dart';
 // import 'package:test/todo_test/intropage.dart';
 
 class SplashScreen extends StatefulWidget {

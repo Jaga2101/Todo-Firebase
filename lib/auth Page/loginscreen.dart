@@ -1,15 +1,15 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:todo/alert.dart';
+import 'package:todo/home%20Page/alert.dart';
 // import 'package:quickalert/models/quickalert_type.dart';
 // import 'package:quickalert/widgets/quickalert_dialog.dart';
 // import 'package:rflutter_alert/rflutter_alert.dart';
 // import 'package:google_sign_in/google_sign_in.dart';
-import 'package:todo/authan.dart';
-import 'package:todo/color.dart';
-import 'package:todo/forget.dart';
-import 'package:todo/regscreen.dart';
-import 'package:todo/taskpage.dart';
+import 'package:todo/auth%20Page/authan.dart';
+import 'package:todo/home%20Page/color.dart';
+import 'package:todo/auth%20Page/forget.dart';
+import 'package:todo/auth%20Page/regscreen.dart';
+import 'package:todo/home%20Page/taskpage.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
